@@ -11,7 +11,7 @@ The files in this repository are:
 7. validationcorr.csv = The encoded validation data.
 8. december-chart-inputs-corr.csv = The encoded december inputs (Including "date")
 9. Data_eng.pdf = A brief explanation of the data engineering.
-
+10. jupyter_scorer_py.txt = Is an adaptation of the original scorer to jupyter (Made by DeepSeek)
 
 All of the following are a copy of the original files sent via email.
 
