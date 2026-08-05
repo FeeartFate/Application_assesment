@@ -3,7 +3,7 @@ This is an assesment assignated as part of a job application to let them know wh
 The files in this repository are:
 
 1. NNModel = The solution code.
-2. OWN README = This file.
+2. README = This file.
 3. validation_predictions.csv = The response for the first task.
 4. december-chart-outputs.csv = The response for the second task.
 
