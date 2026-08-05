@@ -1,19 +1,24 @@
 # Application_assesment
 This is an assesment assignated as part of a job application to let them know what are the roles we can fit.
+The files in this repository are:
 
-NNModel = The solution code
-OWN README = This file
+1. NNModel = The solution code.
+2. OWN README = This file.
+3. validation_predictions.csv = The response for the first task.
+4. december-chart-outputs.csv = The response for the second task.
 
 
 All of the following are a copy of the original files sent via email.
-Readme
-Requirements
-december-chart-input
-freight-rate-ml-assesment
-score_py
-train-test
-validation-predictions-template
-validation
+
+1. Readme.txt
+2. Requirements.txt
+3. December-chart-input.csv
+4. freight-rate-ml-assesment.pdf
+5. score_py.txt
+6. train-test.csv
+7. validation-predictions-template.csv
+8. validation.csv
+
 
 RUN INSTRUCTIONS
 1. Make sure you're working on python 3.12
