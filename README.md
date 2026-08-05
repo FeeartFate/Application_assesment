@@ -10,6 +10,7 @@ The files in this repository are:
 6. train_corrected.xlsx = The file where the encoding of ethe dataset was made.
 7. validationcorr.csv = The encoded validation data.
 8. december-chart-inputs-corr.csv = The encoded december inputs (Including "date")
+9. Data_eng.pdf = A brief explanation of the data engineering.
 
 
 All of the following are a copy of the original files sent via email.
