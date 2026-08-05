@@ -1,8 +1,19 @@
 # Application_assesment
 This is an assesment assignated as part of a job application to let them know what are the roles we can fit.
 
-Original = The folder where the original files sent via email
-Dataspace = The folder where is all the data manipulation
+NNModel = The solution code
+OWN README = This file
+
+
+All of the following are a copy of the original files sent via email.
+Readme
+Requirements
+december-chart-input
+freight-rate-ml-assesment
+score_py
+train-test
+validation-predictions-template
+validation
 
 RUN INSTRUCTIONS
 1. Make sure you're working on python 3.12
