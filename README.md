@@ -6,6 +6,10 @@ The files in this repository are:
 2. README = This file.
 3. validation_predictions.csv = The response for the first task.
 4. december-chart-outputs.csv = The response for the second task.
+5. train_corrected.csv = The file containing the dataset encoded for the model fit.
+6. train_corrected.xlsx = The file where the encoding of ethe dataset was made.
+7. validationcorr.csv = The encoded validation data.
+8. december-chart-inputs-corr.csv = The encoded december inputs (Including "date")
 
 
 All of the following are a copy of the original files sent via email.
